@@ -3,26 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://abdulmuhsin.dev/</loc>
+    <lastmod>2020-01-13T21:06:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abdulmuhsin.dev/soundcloud/</loc>
+    <lastmod>2020-01-13T21:06:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abdulmuhsin.dev/projects/</loc>
+    <lastmod>2020-01-13T21:05:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abdulmuhsin.dev/about/</loc>
+    <lastmod>2020-01-13T21:05:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://abdulmuhsin.dev/posts/my-first-post/</loc>
     <lastmod>2020-01-13T20:44:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://abdulmuhsin.dev/posts/</loc>
     <lastmod>2020-01-13T20:44:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2020-01-13T20:44:04+00:00</lastmod>
+    <loc>https://abdulmuhsin.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://abdulmuhsin.dev/series/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://abdulmuhsin.dev/tags/</loc>
   </url>
   
 </urlset>
