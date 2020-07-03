@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2020-01-13T21:05:33Z
-draft: true
+draft: false
 ---
 
 > ## [where to stream](https://wheretostream.abdulmuhsin.dev) 
