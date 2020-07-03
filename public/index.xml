@@ -6,42 +6,10 @@
     <description>Recent content on abdulmuhsin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jan 2020 21:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 20:44:04 +0000</lastBuildDate>
     
 	<atom:link href="https://abdulmuhsin.dev/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>DJ Sets</title>
-      <link>https://abdulmuhsin.dev/soundcloud/</link>
-      <pubDate>Mon, 13 Jan 2020 21:06:10 +0000</pubDate>
-      
-      <guid>https://abdulmuhsin.dev/soundcloud/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://abdulmuhsin.dev/projects/</link>
-      <pubDate>Mon, 13 Jan 2020 21:05:33 +0000</pubDate>
-      
-      <guid>https://abdulmuhsin.dev/projects/</guid>
-      <description> where to stream A simple web app to check if a tv show or movie can be found on Prime Video, Netflix, etc
-Github
-go vue vuetify gcp
- </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://abdulmuhsin.dev/about/</link>
-      <pubDate>Mon, 13 Jan 2020 21:05:25 +0000</pubDate>
-      
-      <guid>https://abdulmuhsin.dev/about/</guid>
-      <description>I am a Software developer working from Ghana, with interest in backend development and DevOps. I also have interests in Software Architecture and, Machine learning, particularly Natural language Processing(NLP).
-I work with NodeJS, Go, Flutter and Javascript. I use Google Cloud Platform for personal projects. I use AWS at my current workplace.
-My interest in DevOps and Software Architecture grows as I work on projects and because there is a need for it.</description>
-    </item>
     
     <item>
       <title>my first post</title>

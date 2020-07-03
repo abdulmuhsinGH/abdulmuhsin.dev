@@ -10,3 +10,10 @@ draft: true
 > [Github](https://github.com/abdulmuhsinGH/where_to_stream)
 > 
 > `go` `vue` `vuetify` `gcp`
+
+> ## [oauth2 server example](https://github.com/abdulmuhsinGH/oauth2_server_golang_example) 
+> An oauth2 server example with authorization code
+>
+> [Github](https://github.com/abdulmuhsinGH/oauth2_server_golang_example)
+> 
+> `go` `postgres` `redis` `docker` `docker-compose`
