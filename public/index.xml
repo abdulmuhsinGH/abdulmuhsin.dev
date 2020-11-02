@@ -6,10 +6,30 @@
     <description>Recent content on abdulmuhsin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jan 2020 21:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2020 00:03:08 +0000</lastBuildDate>
     
 	<atom:link href="https://abdulmuhsin.dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://abdulmuhsin.dev/about/</link>
+      <pubDate>Mon, 02 Nov 2020 00:03:08 +0000</pubDate>
+      
+      <guid>https://abdulmuhsin.dev/about/</guid>
+      <description>I am a Software developer working from Ghana, with interest in backend development and DevOps. I also have interests in Software Architecture and, Machine learning, particularly Natural language Processing(NLP).
+I work with NodeJS, Go, Flutter and Javascript. I work with Google Cloud Platform for personal projects.
+My interest in DevOps and Software Architecture grows as I work on projects and because there is a need for it. I try to improve my knowledge of them as I work on more projects.</description>
+    </item>
+    
+    <item>
+      <title>DJ Sets</title>
+      <link>https://abdulmuhsin.dev/soundcloud/</link>
+      <pubDate>Mon, 13 Jan 2020 21:06:10 +0000</pubDate>
+      
+      <guid>https://abdulmuhsin.dev/soundcloud/</guid>
+      <description> </description>
+    </item>
     
     <item>
       <title>Projects</title>
@@ -17,7 +37,7 @@
       <pubDate>Mon, 13 Jan 2020 21:05:33 +0000</pubDate>
       
       <guid>https://abdulmuhsin.dev/projects/</guid>
-      <description> where to stream A simple web app to check if a tv show or movie can be found on Prime Video, Netflix, etc
+      <description> where to stream A simple web app to check if a tv show or movie can be found on Prime Video, Netflix, etc.
 Github
 go vue vuetify gcp
   oauth2 server example An oauth2 server example with authorization code

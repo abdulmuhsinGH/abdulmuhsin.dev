@@ -16,6 +16,8 @@ hrefTargetBlank = true
 
 disqusShortname = "yourdiscussshortname"
 
+googleAnalytics = "220139867"
+
 [params]
     author = "Abdul Muhsin Iddris"
     description = "Abdul Muhsin's personal website"

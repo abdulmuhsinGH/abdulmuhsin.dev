@@ -1,7 +1,7 @@
 ---
 title: "About"
-date: 2020-01-13T21:05:25Z
-draft: true
+date: 2020-11-02T00:03:08Z
+draft: false
 ---
 
 I am a Software developer working from Ghana, with interest in backend development and DevOps. I also have interests in Software Architecture and, Machine learning, particularly Natural language Processing(NLP). 

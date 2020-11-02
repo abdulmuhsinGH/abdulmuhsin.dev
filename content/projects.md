@@ -5,7 +5,7 @@ draft: false
 ---
 
 > ## [where to stream](https://wheretostream.abdulmuhsin.dev) 
-> A simple web app to check if a tv show or movie can be found on Prime Video, Netflix, etc
+> A simple web app to check if a tv show or movie can be found on Prime Video, Netflix, etc.
 >
 > [Github](https://github.com/abdulmuhsinGH/where_to_stream)
 > 
